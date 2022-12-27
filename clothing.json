@@ -54,5 +54,14 @@
 "material": "silk",
 "category": "women's"
 }
+  {
+"id": 100,
+"name": "Computer",
+"price": 1000,
+"size": "Dell",
+"color": "black",
+"material": "grossy",
+"category": "professional"
+}
 ]
 }
